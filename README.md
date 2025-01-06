@@ -14,7 +14,7 @@ This project demonstrates a comprehensive data cleaning process using Python. Th
 
 ## How to Run the Project
 1. Clone the repository:  
-   `git clone https://github.com/your-username/data-cleaning-project.git`
+   `git clone https://github.com/Macaies/Data-Clean`
    
 2. Install the required dependencies:  
    `pip install -r requirements.txt`
@@ -29,10 +29,8 @@ This project demonstrates a comprehensive data cleaning process using Python. Th
 - Matplotlib (for visualization)
 
 ## Example Dataset:
-The dataset used for this project is a sample CSV containing user information, which can be found in the `data/` folder.
+The dataset used for this project is a sample CSV containing user information, which can be found in the `data/` folder. (main source is in Kaggle.com)
 
 ## Contributing
 Feel free to fork this project, submit issues, or create pull requests for enhancements!
 
-## License
-This project is licensed under the MIT License.
